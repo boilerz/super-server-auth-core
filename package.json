@@ -1,6 +1,6 @@
 {
   "name": "@boilerz/super-server-auth-core",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha.1",
   "main": "src/index.ts",
   "repository": "git@github.com:boilerz/super-server-auth-core.git",
   "author": "boilerz",
