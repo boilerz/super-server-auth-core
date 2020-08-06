@@ -39,7 +39,7 @@
     "@types/jest": "^26.0.9",
     "@types/jsonwebtoken": "^8.5.0",
     "@types/lodash": "^4.14.159",
-    "@types/mongoose": "^5.7.21",
+    "@types/mongoose": "^5.7.35",
     "@types/passport": "^1.0.4",
     "@types/pluralize": "^0.0.29",
     "@types/supertest": "^2.0.10",
